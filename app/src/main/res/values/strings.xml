@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">weatherapp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open_webview">open webView</string>
+    <string name="_20">-20°</string>
+    <string name="city">Brovary</string>
+    <string name="refresh">refresh</string>
+</resources>
